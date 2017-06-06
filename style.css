@@ -1,0 +1,14 @@
+#map {
+    display: inline-block;
+    width:500px;
+    height:400px;
+    margin-right: 2px
+}
+#demand {
+    vertical-align:top;
+    display: inline-block;
+    width:500px;
+    height:400px;
+}
+
+
